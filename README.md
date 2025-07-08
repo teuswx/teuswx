@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🌱 I’m currently full stack development.
+🌱 I’m currently learning full stack development.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mteusw/?next=%2F) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-pereira-941bb3174/) 
